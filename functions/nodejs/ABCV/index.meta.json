@@ -1,0 +1,16 @@
+{
+  "apiID": "package_722e4a__c__function_aadfppuue2ais",
+  "apiName": "ABCV",
+  "label": {
+    "zh_CN": "test001",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
